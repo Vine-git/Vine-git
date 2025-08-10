@@ -1,4 +1,4 @@
-Welcome to my GitHub! I'm Vine
+Welcome to my GitHub! I'm Vine.
 I'm an aspiring cybersecurity analyst with a passion for ethical hacking, digital forensics, and security awareness. My goal is to help individuals and small businesses stay protected online while developing real-world security skills and tools.
 
 ---
