@@ -5,7 +5,7 @@ I'm an aspiring cybersecurity analyst with a passion for ethical hacking, digita
  What I’m Working On
 - Creating simple Python tools for cybersecurity automation (e.g., port scanners, brute force scripts)
 - Documenting my learning journey through CTFs and labs (TryHackMe, Hack The Box)
-- Building cybersecurity awareness content on Instagram [@securewith_vine](https://instagram.com/securewith_vine)
+- Building cybersecurity awareness content on tik and instagram 
 - Learning more about incident response, GRC, and threat detection
 
 ---
